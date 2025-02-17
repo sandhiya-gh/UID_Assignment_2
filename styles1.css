@@ -1,0 +1,28 @@
+#myList {  
+    list-style-type: circle; 
+    padding: 0;  
+}  
+
+#myList li {  
+    font-style: italic; 
+}
+
+#myList a {  
+    text-decoration: none; 
+}
+
+#item1:link, #item2:link, #item3:link {  
+    color: blue;  
+}  
+
+#item1:visited, #item2:visited, #item3:visited {  
+    color: purple; 
+}  
+
+#item1:hover, #item2:hover, #item3:hover {  
+    color: green;
+}  
+
+#item1:active, #item2:active, #item3:active {  
+    color: red;  
+}
